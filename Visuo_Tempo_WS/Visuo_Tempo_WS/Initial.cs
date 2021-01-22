@@ -5,6 +5,7 @@ using System.Drawing;
 using System.Data;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
@@ -23,7 +24,6 @@ namespace Visuo_Tempo_WS
             Location = new Point(offset, offset);
             Width = w - 2 * offset;
             Height = h - 2 * offset;
-            //labLuda.Location = new Point(w / 2 - labLuda.Width / 2 - offset, 200);
         }
         private void Initial_Load(object sender, EventArgs e)
         {
@@ -32,7 +32,9 @@ namespace Visuo_Tempo_WS
 
         private void button1_Click(object sender, EventArgs e)
         {
-            parentForm.playbackResourceAudio("MC");
+            //parentForm.playbackResourceAudio("MC");       
+            parentForm.onStart();
+            this.Visible = false;
         }
     }
 }

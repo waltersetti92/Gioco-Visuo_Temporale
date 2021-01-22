@@ -25,7 +25,9 @@ namespace Visuo_Tempo_WS
         {
             InitializeComponent();
             initial1.parentForm = this;
+            interaction1.parentForm = this;
             initial1.Visible = false;
+            interaction1.Visible = false;
             home();
             BackgroundImageLayout = ImageLayout.Stretch;
             BackgroundImage = Image.FromFile(resourcesPath + "\\" + background_image);
@@ -46,6 +48,13 @@ namespace Visuo_Tempo_WS
         {
             Size size = this.Size;
             initial1.setPos(size.Width, size.Height);
+            interaction1.setPos(size.Width, size.Height);
+        }
+        public void onStart()
+        {
+            initial1.Visible = false;
+            interaction1.Visible = true;
+            currUC = interaction1;
         }
     }
 }

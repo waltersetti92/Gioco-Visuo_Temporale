@@ -1,7 +1,6 @@
 C:\Users\Luigi\source\repos\Gioco-Visuo_Temporale\Visuo_Tempo_WS\Visuo_Tempo_WS\bin\Debug\Visuo_Tempo_WS.exe.config
 C:\Users\Luigi\source\repos\Gioco-Visuo_Temporale\Visuo_Tempo_WS\Visuo_Tempo_WS\bin\Debug\Visuo_Tempo_WS.exe
 C:\Users\Luigi\source\repos\Gioco-Visuo_Temporale\Visuo_Tempo_WS\Visuo_Tempo_WS\bin\Debug\Visuo_Tempo_WS.pdb
-C:\Users\Luigi\source\repos\Gioco-Visuo_Temporale\Visuo_Tempo_WS\Visuo_Tempo_WS\obj\Debug\Visuo_Tempo_WS.csprojAssemblyReference.cache
 C:\Users\Luigi\source\repos\Gioco-Visuo_Temporale\Visuo_Tempo_WS\Visuo_Tempo_WS\obj\Debug\Visuo_Tempo_WS.Initial.resources
 C:\Users\Luigi\source\repos\Gioco-Visuo_Temporale\Visuo_Tempo_WS\Visuo_Tempo_WS\obj\Debug\Visuo_Tempo_WS.Main.resources
 C:\Users\Luigi\source\repos\Gioco-Visuo_Temporale\Visuo_Tempo_WS\Visuo_Tempo_WS\obj\Debug\Visuo_Tempo_WS.Properties.Resources.resources
@@ -9,3 +8,4 @@ C:\Users\Luigi\source\repos\Gioco-Visuo_Temporale\Visuo_Tempo_WS\Visuo_Tempo_WS\
 C:\Users\Luigi\source\repos\Gioco-Visuo_Temporale\Visuo_Tempo_WS\Visuo_Tempo_WS\obj\Debug\Visuo_Tempo_WS.csproj.CoreCompileInputs.cache
 C:\Users\Luigi\source\repos\Gioco-Visuo_Temporale\Visuo_Tempo_WS\Visuo_Tempo_WS\obj\Debug\Visuo_Tempo_WS.exe
 C:\Users\Luigi\source\repos\Gioco-Visuo_Temporale\Visuo_Tempo_WS\Visuo_Tempo_WS\obj\Debug\Visuo_Tempo_WS.pdb
+C:\Users\Luigi\source\repos\Gioco-Visuo_Temporale\Visuo_Tempo_WS\Visuo_Tempo_WS\obj\Debug\Visuo_Tempo_WS.Interaction.resources
