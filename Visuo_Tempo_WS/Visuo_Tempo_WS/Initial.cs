@@ -29,5 +29,10 @@ namespace Visuo_Tempo_WS
         {
            
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            parentForm.playbackResourceAudio("MC");
+        }
     }
 }

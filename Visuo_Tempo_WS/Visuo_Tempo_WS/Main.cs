@@ -28,7 +28,7 @@ namespace Visuo_Tempo_WS
             initial1.Visible = false;
             home();
             BackgroundImageLayout = ImageLayout.Stretch;
-            //BackgroundImage = Image.FromFile(resourcesPath + "\\" + background_image);
+            BackgroundImage = Image.FromFile(resourcesPath + "\\" + background_image);
         }
         public void home()
         {
